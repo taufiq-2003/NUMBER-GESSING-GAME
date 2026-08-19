@@ -21,6 +21,9 @@ This is a lightweight command-line game created as a learning project to underst
 
 ## 🚀 How to Run
 
+
+download the (number_gessing_gamme.c) file and run in your compiler
+
 ### Prerequisites
 
 You need a C compiler installed on your system:
