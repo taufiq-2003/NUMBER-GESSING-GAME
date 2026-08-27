@@ -18,8 +18,7 @@ int main()
   int number_of_gesses = 1;
   int best_score;
 
-  // Print the random number
-  // printf("Random Number: %d\n", randomNumber);
+  
 
   printf("guess the number :");
   scanf("%d", &gessed_number);
